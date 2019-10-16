@@ -1,8 +1,6 @@
 /*
 Christopher Kanazeh
 Professor Whiting
-Assignment 3
-3/29/2015
 */
 
 //Libraries
